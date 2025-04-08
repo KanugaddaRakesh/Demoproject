@@ -7,6 +7,10 @@ public class gittesting {
 		System.out.println("branch 3");
 	}
 
+	public void testbranch6()
+	{
+		System.out.println("branch 6");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

@@ -12,4 +12,9 @@ public class gitbranch {
 	{
 		System.out.println("branch 2");
 	}
+	
+	public void testbranch4()
+	{
+		System.out.println("branch 2");
+	}
 }
