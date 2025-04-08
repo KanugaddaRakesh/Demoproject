@@ -7,6 +7,9 @@ public class gittesting {
 
 		System.out.println("git test1");
 		System.out.println("git test1");
+		
+		System.out.println("git test3");
+		System.out.println("git test4");
 	}
 
 }
